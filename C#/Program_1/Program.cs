@@ -22,6 +22,13 @@ namespace Generation {
                 Console.WriteLine("Meow~ (From {0}th Cat object)...", catID);
             }
 
+            public void Call(int n) {
+                int x = 0;
+                while (x < n) {
+                    Console.WriteLine("Nyan~ (From {0}th Cat object, {1}th time", catID, x);
+                }
+            }
+
             ~Cat() { //destructor
                 count--;
             }
