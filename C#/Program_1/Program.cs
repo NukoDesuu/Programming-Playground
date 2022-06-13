@@ -81,6 +81,7 @@ namespace Generation {
             d1.Call();
             Dog.Bark();
             d1.Call(5);
+            c1.Call(4);
         }
     }
 }
