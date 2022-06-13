@@ -1,0 +1,15 @@
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\bin\Debug\net6.0\C#.exe
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\bin\Debug\net6.0\C#.deps.json
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\bin\Debug\net6.0\C#.runtimeconfig.json
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\bin\Debug\net6.0\C#.dll
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\bin\Debug\net6.0\C#.pdb
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\obj\Debug\net6.0\C#.AssemblyInfo.cs
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\obj\Debug\net6.0\C#.dll
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\obj\Debug\net6.0\refint\C#.dll
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\obj\Debug\net6.0\C#.pdb
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\obj\Debug\net6.0\C#.genruntimeconfig.cache
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\Program_1\obj\Debug\net6.0\ref\C#.dll
