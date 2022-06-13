@@ -25,7 +25,7 @@ namespace Generation {
             public void Call(int n) {
                 int x = 0;
                 while (x < n) {
-                    Console.WriteLine("Nyan~ (From {0}th Cat object, {1}th time", catID, x);
+                    Console.WriteLine("Nyan~ (From {0}th Cat object, {1}th time)", catID, x + 1);
                     x++;
                 }
             }
@@ -83,6 +83,7 @@ namespace Generation {
             Dog.Bark();
             d1.Call(5);
             c1.Call(4);
+            c2.Call(8);
         }
     }
 }

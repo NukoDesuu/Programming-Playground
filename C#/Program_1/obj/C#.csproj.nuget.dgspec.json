@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nono\\WORKS\\Programming\\ONLINE SYNCED SOURCES\\Programming-Playground\\C#\\Program_1\\C#.csproj": {}
+    "D:\\Nono\\WORKS\\Programming\\ONLINE SYNCED SOURCES\\Programming-Playground\\c#\\Program_1\\C#.csproj": {}
   },
   "projects": {
-    "D:\\Nono\\WORKS\\Programming\\ONLINE SYNCED SOURCES\\Programming-Playground\\C#\\Program_1\\C#.csproj": {
+    "D:\\Nono\\WORKS\\Programming\\ONLINE SYNCED SOURCES\\Programming-Playground\\c#\\Program_1\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nono\\WORKS\\Programming\\ONLINE SYNCED SOURCES\\Programming-Playground\\C#\\Program_1\\C#.csproj",
+        "projectUniqueName": "D:\\Nono\\WORKS\\Programming\\ONLINE SYNCED SOURCES\\Programming-Playground\\c#\\Program_1\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "D:\\Nono\\WORKS\\Programming\\ONLINE SYNCED SOURCES\\Programming-Playground\\C#\\Program_1\\C#.csproj",
+        "projectPath": "D:\\Nono\\WORKS\\Programming\\ONLINE SYNCED SOURCES\\Programming-Playground\\c#\\Program_1\\C#.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Nono\\WORKS\\Programming\\ONLINE SYNCED SOURCES\\Programming-Playground\\C#\\Program_1\\obj\\",
+        "outputPath": "D:\\Nono\\WORKS\\Programming\\ONLINE SYNCED SOURCES\\Programming-Playground\\c#\\Program_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
