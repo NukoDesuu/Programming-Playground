@@ -26,6 +26,7 @@ namespace Generation {
                 int x = 0;
                 while (x < n) {
                     Console.WriteLine("Nyan~ (From {0}th Cat object, {1}th time", catID, x);
+                    x++;
                 }
             }
 
