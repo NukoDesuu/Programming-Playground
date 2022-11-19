@@ -1,0 +1,5 @@
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\obj\Debug\net6.0\JGOR_flower_loop.csproj.AssemblyReference.cache
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\obj\Debug\net6.0\JGOR_flower_loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\obj\Debug\net6.0\JGOR_flower_loop.AssemblyInfoInputs.cache
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\obj\Debug\net6.0\JGOR_flower_loop.AssemblyInfo.cs
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\obj\Debug\net6.0\JGOR_flower_loop.csproj.CoreCompileInputs.cache
