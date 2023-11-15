@@ -3,3 +3,13 @@ D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_f
 D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\obj\Debug\net6.0\JGOR_flower_loop.AssemblyInfoInputs.cache
 D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\obj\Debug\net6.0\JGOR_flower_loop.AssemblyInfo.cs
 D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\obj\Debug\net6.0\JGOR_flower_loop.csproj.CoreCompileInputs.cache
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\bin\Debug\net6.0\JGOR_flower_loop.exe
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\bin\Debug\net6.0\JGOR_flower_loop.deps.json
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\bin\Debug\net6.0\JGOR_flower_loop.runtimeconfig.json
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\bin\Debug\net6.0\JGOR_flower_loop.dll
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\bin\Debug\net6.0\JGOR_flower_loop.pdb
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\obj\Debug\net6.0\JGOR_flower_loop.dll
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\obj\Debug\net6.0\refint\JGOR_flower_loop.dll
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\obj\Debug\net6.0\JGOR_flower_loop.pdb
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\obj\Debug\net6.0\JGOR_flower_loop.genruntimeconfig.cache
+D:\Nono\WORKS\Programming\ONLINE SYNCED SOURCES\Programming-Playground\C#\JGOR_flower_loop\obj\Debug\net6.0\ref\JGOR_flower_loop.dll

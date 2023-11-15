@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JGOR_flower_loop/1.0.0": {
+        "runtime": {
+          "JGOR_flower_loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JGOR_flower_loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
